@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"HbW/":function(n,o,t){"use strict";t.r(o),t.d(o,"SharedRoutingModule",(function(){return u}));var r=t("ofXK"),e=t("fXoL");let u=(()=>{class n{}return n.\u0275mod=e.Jb({type:n}),n.\u0275inj=e.Ib({factory:function(o){return new(o||n)},imports:[[r.b]]}),n})()}}]);
