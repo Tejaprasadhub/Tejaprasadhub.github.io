@@ -1,6 +1,6 @@
 {
-    "api":{
-        "mahakubera":"/mahakubera-api/V1/"   
+    "api":{       
+        "mahakubera":"http://52.202.20.133:8080/mahakubera-api/V1/"   
     },
     "Messages":{
         "successMessage":"Your changes have been successfully saved",
