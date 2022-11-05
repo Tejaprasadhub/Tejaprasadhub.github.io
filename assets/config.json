@@ -1,7 +1,7 @@
 {
     "api":{
-        "security":"https://26d9-2409-4070-2c80-822d-bc7e-d4c9-b40b-6445.in.ngrok.io/api/",
-        "AdminApp":"https://26d9-2409-4070-2c80-822d-bc7e-d4c9-b40b-6445.in.ngrok.io/api/"      
+        "security":"https://4d39-2409-4070-2c80-822d-2430-a276-181c-79ab.in.ngrok.io/api/",
+        "AdminApp":"https://4d39-2409-4070-2c80-822d-2430-a276-181c-79ab.in.ngrok.io/api/"      
     },
     "datetimeformat":{
         "datetimeformat":"MMMM Do YYYY, hh:mm A",
