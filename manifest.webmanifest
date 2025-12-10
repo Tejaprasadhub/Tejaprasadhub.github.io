@@ -1,9 +1,10 @@
 {
-  "name": "qrApp",
-  "short_name": "qrApp",
+  "name": "Kick",
+  "short_name": "Kick",
+  "theme_color": "#4f46e5",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+ "scope": "/",
+  "start_url": "/login",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
