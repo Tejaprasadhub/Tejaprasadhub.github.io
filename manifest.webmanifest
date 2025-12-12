@@ -1,11 +1,10 @@
 {
   "name": "Kick",
   "short_name": "Kick",
+  "theme_color": "#4f46e5",
   "display": "standalone",
  "scope": "/",
   "start_url": "/#/login",
-   "background_color": "#0f172a",
-  "theme_color": "#0f172a",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
